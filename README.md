@@ -1,5 +1,5 @@
 # MASem2PituCase
-Car insurance cost simulations
+Car insurance cost simulations in ✨Julia✨
 
 Questions:
 
